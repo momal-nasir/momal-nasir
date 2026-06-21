@@ -2,14 +2,13 @@
 <h3 align="center">AI/ML Enthusiast | Full-Stack Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=AI%20Engineer;Full%20Stack%20Developer;Computer%20Science%20Student&center=true&width=500&height=50" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=AI%20Engineer;Full%20Stack%20Developer;Computer%20Science%20Student&center=true&width=500&height=180" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=momal-nasir&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=momal-nasir&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=momal-nasir&show_icons=true&theme=rose_pine&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=momal-nasir&layout=compact&theme=rose_pine&hide_border=true" height="180"/>
 </p>
-
 ---
 
 ## 🌟 About Me
