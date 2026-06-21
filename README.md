@@ -13,7 +13,7 @@
 
 ##  About Me
 
-*  BS Computer Science (6th Semester)
+*  BS Computer Science (7th Semester)
 *  Working on AI/ML & Computer Vision projects
 *  Exploring Full-Stack Development
 *  Learning Generative AI (LLMs, RAG systems)
