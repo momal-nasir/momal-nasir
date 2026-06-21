@@ -1,6 +1,14 @@
-# Hi 👋, I'm Momal
+<h1 align="center">Hi 👋, I'm Momal</h1>
+<h3 align="center">AI/ML Enthusiast | Full-Stack Developer</h3>
 
-### 🚀 AI/ML Enthusiast | Full-Stack Developer | Computer Science Student
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=AI%20Engineer;Full%20Stack%20Developer;Computer%20Science%20Student&center=true&width=500&height=50" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=momal-nasir&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=momal-nasir&layout=compact&theme=radical" />
+</p>
 
 ---
 
@@ -13,12 +21,23 @@
 
 ---
 
-## 🔥 Featured Projects
+## 🚀 Featured Projects
 
-* 🧠 Emotion Detection using Transformers (BERT, RoBERTa, XLNet)
-* 🚆 Graph-Based Railway Reservation System
-* 🌐 Car Rental Management System (ASP.NET + SQL Server)
-* 📡 Reliable Data Transfer Protocol (UDP + Sliding Window)
+🔹 **Emotion Detection using Transformers**
+Multi-label emotion classification using BERT, RoBERTa, XLNet
+👉 https://github.com/momal-nasir/emotion-detection
+
+🔹 **Car Rental Management System**
+Full-stack system using ASP.NET Core + SQL Server
+👉 https://github.com/momal-nasir/car-rental-management-system
+
+🔹 **Railway Reservation System (DSA)**
+Graph-based system using Dijkstra’s algorithm
+👉 https://github.com/momal-nasir/Graph-Based-Railway-Reservation-System
+
+🔹 **Reliable Data Transfer Protocol (UDP)**
+Custom TCP-like reliability over UDP
+👉 https://github.com/momal-nasir/reliable-data-transfer-udp
 
 ---
 
@@ -38,19 +57,13 @@ SQL Server
 
 ---
 
-## 📊 GitHub Stats
+## 🐍 Contributions
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=momal-nasir\&show_icons=true\&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=momal-nasir\&layout=compact\&theme=radical)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=momal-nasir\&theme=radical)
+![Snake animation](https://github.com/momal-nasir/momal-nasir/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)]https://www.linkedin.com/in/momal-nasir/
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/momal-nasir/)
 [![Email](https://img.shields.io/badge/Email-red?logo=gmail)](mailto:momal.nasir.16@gmail.com)
-
----
