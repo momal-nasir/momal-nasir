@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Momal</h1>
+<h1 align="center">Hi , I'm Momal</h1>
 <h3 align="center">AI/ML Enthusiast | Full-Stack Developer</h3>
 
 <p align="center">
@@ -11,36 +11,36 @@
 </p>
 ---
 
-## 🌟 About Me
+##  About Me
 
-* 🎓 BS Computer Science (6th Semester)
-* 🤖 Working on AI/ML & Computer Vision projects
-* 🌐 Exploring Full-Stack Development
-* 🧠 Learning Generative AI (LLMs, RAG systems)
+*  BS Computer Science (6th Semester)
+*  Working on AI/ML & Computer Vision projects
+*  Exploring Full-Stack Development
+*  Learning Generative AI (LLMs, RAG systems)
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-🔹 **Emotion Detection using Transformers**
+ **Emotion Detection using Transformers**
 Multi-label emotion classification using BERT, RoBERTa, XLNet
-👉 https://github.com/momal-nasir/emotion-detection
+ https://github.com/momal-nasir/emotion-detection
 
-🔹 **Car Rental Management System**
+ **Car Rental Management System**
 Full-stack system using ASP.NET Core + SQL Server
-👉 https://github.com/momal-nasir/car-rental-management-system
+ https://github.com/momal-nasir/car-rental-management-system
 
-🔹 **Railway Reservation System (DSA)**
+ **Railway Reservation System (DSA)**
 Graph-based system using Dijkstra’s algorithm
-👉 https://github.com/momal-nasir/Graph-Based-Railway-Reservation-System
+ https://github.com/momal-nasir/Graph-Based-Railway-Reservation-System
 
-🔹 **Reliable Data Transfer Protocol (UDP)**
+ **Reliable Data Transfer Protocol (UDP)**
 Custom TCP-like reliability over UDP
-👉 https://github.com/momal-nasir/reliable-data-transfer-udp
+ https://github.com/momal-nasir/reliable-data-transfer-udp
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 **Languages:**
 Python | C++ | C
@@ -56,13 +56,13 @@ SQL Server
 
 ---
 
-## 🐍 Contributions
+##  Contributions
 
 ![Snake animation](https://github.com/momal-nasir/momal-nasir/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
-## 📫 Connect with Me
+##  Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/momal-nasir/)
 [![Email](https://img.shields.io/badge/Email-red?logo=gmail)](mailto:momal.nasir.16@gmail.com)
