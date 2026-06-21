@@ -1,13 +1,15 @@
-<h1 align="center">Hi , I'm Momal</h1>
-<h3 align="center">AI/ML Enthusiast | Full-Stack Developer</h3>
+<img width="878" height="559" alt="image" src="https://github.com/user-attachments/assets/9786a5ff-dbbc-4d6d-8429-a4dbeca939a0" /><h1 align="center">Hi , I'm Momal</h1>
+<h3 align="center">
+Full-Stack Developer | AI/ML Enthusiast | UI/UX Designer
+</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=AI%20Engineer;Full%20Stack%20Developer;Computer%20Science%20Student&center=true&width=500&height=180" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=momal-nasir&show_icons=true&theme=rose_pine&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=momal-nasir&layout=compact&theme=rose_pine&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=momal-nasir&show_icons=true&theme=default&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=momal-nasir&layout=compact&theme=default&hide_border=true" height="180"/>
 </p>
 ---
 
