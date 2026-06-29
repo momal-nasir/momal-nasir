@@ -12,7 +12,7 @@ Full-Stack Developer | AI/ML Enthusiast | UI/UX Designer
 
 ## About Me
 
-*  BS Computer Science (7th Semester)
+*  BS Computer Science 
 *  Working on AI/ML & Computer Vision projects
 *  Exploring Full-Stack Development
 *  Learning Generative AI (LLMs, RAG-based systems)
